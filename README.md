@@ -7,15 +7,6 @@
 
 ### 📦 Additional Contributions
 
-> [`google/rb-modulation`](https://github.com/google/rb-modulation): [![Stars](https://img.shields.io/github/stars/google/rb-modulation?style=social)](https://github.com/google/rb-modulation)
+> [`google/RB-Modulation`](https://github.com/google/rb-modulation): [![Stars](https://img.shields.io/github/stars/google/rb-modulation?style=social)](https://github.com/google/rb-modulation)
 
 > [`logtd/ComfyUI-Fluxtapoz`](https://github.com/logtd/ComfyUI-Fluxtapoz): [![Stars](https://img.shields.io/github/stars/logtd/ComfyUI-Fluxtapoz?style=social)](https://github.com/logtd/ComfyUI-Fluxtapoz)
-
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LituRout&theme=gruvbox">
-</p>
-
-
