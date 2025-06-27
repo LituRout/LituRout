@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Litu Rout 👋</h1>
 <p align="center">
   🧠 Ph.D. Student @ UT Austin • Research Scientist Intern @ Google <br>
-  🧰 Previously Student Researcher @ Google/Google DeepMind • Research Scientist Intern @ Qualcomm • Scientist/Engineer - SD @ ISRO<br>
+  🧰 Previously Student Researcher @ Google/Google DeepMind • Research Intern @ Qualcomm • Scientist - SD @ ISRO<br>
   🔬 Studying generative models: theory and practice<br>
   📍 Passionate about theoretically principled algorithm design, clean code, open research, and generative AI
 </p>
