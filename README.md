@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Litu Rout 👋</h1>
+<p align="center">
+  🧠 Ph.D. Student @ UT Austin • Research Scientist Intern @ Google <br>
+  🧰 Previously Student Researcher @ Google/Google DeepMind • Research Scientist Intern @ Qualcomm • Scientist/Engineer - SD @ ISRO<br>
+  🔬 Studying generative models: theory and practice<br>
+  📍 Passionate about theoretically principled algorithm design, clean code, open research, and generative AI
+</p>
 
-<!--
-**LituRout/LituRout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LituRout&show_icons=true&theme=gruvbox" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LituRout&layout=compact&theme=gruvbox" height="165">
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LituRout&theme=gruvbox">
+</p>
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: litu.rout [at] utexas [dot] edu
+- 🌐 Website: [liturout.github.io](https://liturout.github.io)
+- 🐦 Twitter: [@litu_rout_](https://twitter.com/litu_rout_)
+
+---
