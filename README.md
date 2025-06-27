@@ -7,6 +7,6 @@
 
 ### 📦 Additional Contributions
 
-> [`google/RB-Modulation`](https://github.com/google/rb-modulation): [![Stars](https://img.shields.io/github/stars/google/rb-modulation?style=social)](https://github.com/google/rb-modulation)
+> RB-Modulation (ICLR 2025, Oral): [`google/RB-Modulation`](https://github.com/google/rb-modulation): [![Stars](https://img.shields.io/github/stars/google/rb-modulation?style=social)](https://github.com/google/rb-modulation)
 
-> [`logtd/ComfyUI-Fluxtapoz`](https://github.com/logtd/ComfyUI-Fluxtapoz): [![Stars](https://img.shields.io/github/stars/logtd/ComfyUI-Fluxtapoz?style=social)](https://github.com/logtd/ComfyUI-Fluxtapoz)
+> RF-Inversion (ICLR 2025): [`logtd/ComfyUI-Fluxtapoz`](https://github.com/logtd/ComfyUI-Fluxtapoz): [![Stars](https://img.shields.io/github/stars/logtd/ComfyUI-Fluxtapoz?style=social)](https://github.com/logtd/ComfyUI-Fluxtapoz)
